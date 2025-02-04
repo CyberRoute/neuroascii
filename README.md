@@ -6,6 +6,7 @@ I started to do some tests on: claude, deepseek, chatgpt and gemini. I asked the
 ######################################
 I would like to build as excercise a neural network written in python that builds an ascii art logo of linkedin looking like this:
 
+```
 ⣾⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ⣿⣿⣿⣿⠁⠀⠀⣻⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
@@ -17,7 +18,7 @@ I would like to build as excercise a neural network written in python that build
 ⣿⣿⣿⣿⣀⣀⣀⣿⣿⣿⣀⣀⣀⣿⣿⣇⣀⣀⣼⣿⣿⣿
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿
 ⢿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⡿
-
+```
 ######################################
 
 After numerous attempts, I finally got an answer that seems to be producing a correct result, the only one model that eventually responded correctly is o3-mini https://openai.com/index/openai-o3-mini/. I am super impressed!
