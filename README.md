@@ -1,6 +1,6 @@
 # neuroascii
 
-Given all the news around AI and new 'smarter' models coming out at the speed of light I had to do some experiments! Inspired by some of the @antirez videos around the topic (thanks so much for sharing so much free wisdom, we all owe you a lot!). 
+Given all the news around AI and new 'smarter' models coming out at the speed of light I had to do some experiments! Inspired by some of the [@antirez](https://github.com/antirez) videos around the topic (thanks so much for sharing so much free wisdom, we all owe you a lot!). 
 I started to do some tests on: claude, deepseek, chatgpt and gemini. I asked them all a pretty complicated question:
 
 ######################################
